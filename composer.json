@@ -1,0 +1,19 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "nikunjanibyte/adminauth",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/nikunjanibyte/adminauth",
+                "type": "git",
+                "reference": "master"
+            },
+            "autoload": {
+                "psr-0" : {
+                    "Nikunjanibyte\\Adminauth" : "src"
+                }
+            }
+        }
+    }
+],
